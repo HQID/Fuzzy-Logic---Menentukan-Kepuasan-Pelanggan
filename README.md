@@ -35,7 +35,7 @@ Sistem menggunakan metode Mamdani untuk inferensi fuzzy dan mencakup sembilan at
 
 2. **Instal dependensi:**
 
-   Ensure you have Python installed. Then, install the required Python packages using pip:
+   Pastikan Anda telah menginstal Python. Kemudian, instal paket Python yang diperlukan menggunakan pip:
 
    ```sh
    pip install numpy scikit-fuzzy matplotlib
